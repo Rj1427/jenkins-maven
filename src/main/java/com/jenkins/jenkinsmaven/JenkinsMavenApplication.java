@@ -8,6 +8,7 @@ public class JenkinsMavenApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsMavenApplication.class, args);
+		//syso
 	}
 
 }
